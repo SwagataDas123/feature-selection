@@ -56,7 +56,7 @@ different test set sizes.
 
 Proposed Methodology
 
-Architecture /Flow Diagram
+Architecture /Flow Diagram:
 The model developed for this project is designed to systematically evaluate the similarity, 
 precision and recall of outcomes between three pairs of filter-based feature selection methods, 
 Mutual Information and Correlation, Mutual Information and Chi Square as well as Correlation 
