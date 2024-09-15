@@ -1,4 +1,5 @@
 # Feature-selection(7th sem)
+The filename starting with original word is the 7 th sem work and the one starting with the name new word is the 8 th sem work.
 This repository contains a project on feature selection. This project investigates the stability and consistency of filter-based feature selection methods using 21 datasets and  three different methods. The project aims to find mainly similarity and also standard deviation between two different filter based  feature selection concepts or methods(between Mutual Information and Correlation as well as between Mutual Information and Chi2  Test) across those 21 datasets for two different test sizes(20% and 30%).
 
 Proposed Methodology
